@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200369145053",
+    "project_id": "disciteomens-e7f13",
+    "storage_bucket": "disciteomens-e7f13.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200369145053:android:81905f076537684c638734",
+        "android_client_info": {
+          "package_name": "com.example.disciteomens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRoI_MDpI8gR-hsHvbiqVfQ3oDLOEgSb0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

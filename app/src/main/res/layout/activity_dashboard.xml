@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@android:color/white"
+    android:paddingStart="24dp"
+    android:paddingEnd="24dp">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dashboard"
+        android:textSize="24sp"
+        android:textColor="#212121"
+        android:paddingBottom="24dp" />
+
+    <Button
+        android:id="@+id/btn_groups"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:text="Meine Gruppen"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        android:background="@drawable/rounded_button"
+        android:padding="6dp"
+        android:layout_marginBottom="12dp"
+        android:backgroundTint="@null" />
+
+    <Button
+        android:id="@+id/btn_tasks"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:text="Aufgaben"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        android:background="@drawable/rounded_button"
+        android:padding="6dp"
+        android:layout_marginBottom="12dp"
+        android:backgroundTint="@null" />
+
+    <Button
+        android:id="@+id/btn_logout"
+        android:layout_width="240dp"
+        android:layout_height="wrap_content"
+        android:text="Abmelden"
+        android:textColor="@android:color/white"
+        android:textSize="14sp"
+        android:background="@drawable/rounded_button"
+        android:padding="6dp"
+        android:backgroundTint="@null" />
+</LinearLayout>
