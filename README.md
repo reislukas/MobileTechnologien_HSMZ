@@ -1,27 +1,27 @@
-# DisciteOmnes – Mobile Dev Projekt (SS25)
+# DisciteOmnes – Mobile Development Project (Summer Semester 2025)
 
-## Beschreibung  
-DisciteOmnes ist eine Android-App für Studenten zum Verwalten von Lerngruppen und Aufgaben. Die App wurde mit Java in Android Studio entwickelt.
+## Description
+DisciteOmnes is an Android application designed for university students to manage study groups and tasks. The app was developed using Java in Android Studio.
 
-## Funktionen  
-- Registrierung und Login mit Firebase Auth  
-- Gruppen anzeigen und erstellen  
-- Aufgaben erstellen, anzeigen und als erledigt markieren  
-- REST-API-Anbindung mit Retrofit
+## Features
+- User registration and login with Firebase Authentication
+- Viewing and creating study groups
+- Creating, viewing, and marking tasks as completed
+- REST API integration using Retrofit
 
-## Technologien  
-- Java (Android Studio)  
-- Firebase Auth  
-- Retrofit (REST-API)  
-- Material Design Komponenten
+## Technologies
+- Java (Android Studio)
+- Firebase Authentication
+- Retrofit (REST API)
+- Material Design Components
 
-## Nutzung  
-1. Projekt in Android Studio öffnen  
-2. Emulator oder Gerät starten  
-3. Registrieren oder einloggen  
-4. Gruppen und Aufgaben verwalten
+## Usage
+1. Open the project in Android Studio
+2. Launch an emulator or connect a physical device
+3. Register or log in
+4. Manage study groups and tasks
 
-## Hinweise  
-- Gruppen-ID ist derzeit fest im Code hinterlegt  
-- Fehlerbehandlung erfolgt über einfache Toast-Nachrichten  
-- Aktuell keine Verwendung von RecyclerView
+## Notes
+- The group ID is currently hardcoded
+- Error handling is implemented using basic Toast messages
+- RecyclerView is not currently used
